@@ -27,6 +27,7 @@ profit based on multiple input features.
 | Scikit-learn | Multiple Linear Regression |
 | Jupyter Notebook | Development environment |
 | Excel | Raw data source |
+| Power BI | Analysis & Visualization |
 
 ---
 
