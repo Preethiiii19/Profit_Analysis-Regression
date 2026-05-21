@@ -34,7 +34,7 @@ profit based on multiple input features.
 1. Data Collection & Understanding
 2. Data Cleaning & Preprocessing
 3. Exploratory Data Analysis (EDA)
-4. Feature Selection & Correlation Analysis
+4. Feature Encoding & Correlation Analysis
 5. Multiple Linear Regression Model Building
 6. Model Evaluation (R², RMSE, MAE)
 7. Profit Prediction & Visualization
@@ -79,7 +79,7 @@ profit based on multiple input features.
 
 ---
 
-## 📁 Files in this Repository
+## Files in this Repository
 | File | Description |
 |------|-------------|
 | profit_analysis.ipynb | Main Python notebook |
@@ -91,7 +91,7 @@ profit based on multiple input features.
 
 ---
 
-## 🏆 Outcome
+## Outcome
 Successfully built a Multiple Linear Regression 
 model to predict business profit based on 
 multiple input variables.
@@ -105,8 +105,8 @@ multiple input variables.
 
 ---
 
-## 👩‍💻 Author
-**Preethi M**
-Aspiring Data Analyst
-📧 preethiii.m1905@gmail.com
-🔗 [LinkedIn](your linkedin url here)
+## Author
+**Preethi M**  
+Aspiring Data Analyst  
+📧 preethiii.m1905@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/preethi-m-9864a3384/)
