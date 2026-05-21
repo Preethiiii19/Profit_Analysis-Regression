@@ -83,7 +83,7 @@ profit based on multiple input features.
 | File | Description |
 |------|-------------|
 | profit_analysis.ipynb | Main Python notebook |
-| dataset.csv | Sample dataset (1000 records) |
+| dataset.csv | Dataset used for Analysis |
 | correlation_heatmap.png | Correlation heatmap |
 | actual_vs_predicted.png | Regression plot |
 | regression_output_summary.jpg | Regression Summary |
